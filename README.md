@@ -2,7 +2,7 @@
 
 For start the project
 
-clone this - git clone https://github.com/anil2612coder/movie-website.git
+clone this - git clone https://github.com/anil2612coder/movie-website
 
 run command for install dependencies - "npm install"
 
